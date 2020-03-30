@@ -14,6 +14,7 @@ A `jupyter notebook`, a server client application, was used to edit and run the 
 
 ## Description of Various Datasets
 The dataset given by Kaggle consists of 8 columns and approximately 24004 million rows.
+
 ![veriornek](https://user-images.githubusercontent.com/48765779/77943205-87c24100-72c5-11ea-9ed8-0c01f26ff09a.png)
 
 ---
@@ -59,7 +60,7 @@ Finally, the desired confusion `matrix`, `accuracy`, `recall`, `precision` and `
 
 ---
 
-## Structure of the solution proposed-components
+## Structure of The Solution Proposed-Components
 ![data](https://user-images.githubusercontent.com/48765779/77942600-83495880-72c4-11ea-84e3-c39db479528a.png)
 
 ---
